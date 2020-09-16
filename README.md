@@ -1,6 +1,6 @@
 # 取得したyoutubeのチャンネルのサムネイルに猫が映っていたらLineにメッセージとサムネイルの画像を送る
 
-・インストールするもの
+・インストールするもの<br>
 pip install google-api-python-client<br>
 pip install requests<br>
 pip install feedparser<br>
